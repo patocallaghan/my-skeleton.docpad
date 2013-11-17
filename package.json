@@ -33,7 +33,7 @@
     "docpad-plugin-partials": "~2.8.1",
     "docpad-plugin-marked": "~2.1.2",
     "docpad-plugin-eco": "~2.0.2",
-    "docpad-plugin-slim": "~0.0.2"
+    "docpad-plugin-slim": "~2.0.0"
   },
   "main": "node_modules/docpad/bin/docpad-server",
   "scripts": {
